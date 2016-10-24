@@ -1,0 +1,10 @@
+{
+  "name": "test-semantic",
+  "description": "Made by Gianluca Parente",
+  "main": "test.js",
+  "license": "MIT",
+  "homepage": "",
+  "dependencies": {
+    "requirejs": "2.3.2"
+  }
+}
